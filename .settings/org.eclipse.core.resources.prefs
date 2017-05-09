@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding/CorpusKmeans.py=utf-8
+encoding/CreatPkFile.py=utf-8
+encoding/FeatureExtraction.py=utf-8
+encoding/KmeansResult.py=utf-8
+encoding/MergeFile.py=utf-8
+encoding/SegWord.py=utf-8
+encoding/TF_IDF_Vectorizer.py=utf-8
+encoding/Test_FeatureExtraction2.py=utf-8
+encoding/Test_Gensim.py=utf-8
+encoding/Test_Read_Write2.py=utf-8
+encoding/Test_featureExcetraction.py=utf-8
+encoding/cprint.py=utf-8
+encoding/word2vec_classify.py=utf-8
