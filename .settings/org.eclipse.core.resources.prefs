@@ -1,13 +1,13 @@
 eclipse.preferences.version=1
-encoding/CreatPkFile.py=utf-8
-encoding/FeatureExtraction.py=utf-8
 encoding/KmeansResult.py=utf-8
 encoding/MergeFile.py=utf-8
-encoding/SegWord.py=utf-8
 encoding/Test_Gensim.py=utf-8
 encoding/Test_Read_Write2.py=utf-8
 encoding/corpus_kmeans.py=utf-8
 encoding/cprint.py=utf-8
+encoding/creat_pickle_file.py=utf-8
+encoding/feature_extraction.py=utf-8
+encoding/segword.py=utf-8
 encoding/test_feature_extraction.py=utf-8
 encoding/test_feature_extraction2.py=utf-8
 encoding/tfidf_vectorizer.py=utf-8
