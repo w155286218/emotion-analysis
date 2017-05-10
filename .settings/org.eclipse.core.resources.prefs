@@ -9,6 +9,6 @@ encoding/TF_IDF_Vectorizer.py=utf-8
 encoding/Test_FeatureExtraction2.py=utf-8
 encoding/Test_Gensim.py=utf-8
 encoding/Test_Read_Write2.py=utf-8
-encoding/Test_featureExcetraction.py=utf-8
+encoding/Test_featureExtraction.py=utf-8
 encoding/cprint.py=utf-8
 encoding/word2vec_classify.py=utf-8
