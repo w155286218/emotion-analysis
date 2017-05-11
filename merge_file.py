@@ -3,7 +3,7 @@ import SegWord as sw
 import os
 import time
 
-def mergeFile(source_path,level,target_file,stopWord_file):  
+def merge_file(source_path,level,target_file,stopWord_file):  
     # 所有文件夹，第一个字段是次目录的级别  
     dirList = []  
     # 所有文件  
@@ -33,9 +33,9 @@ def mergeFile(source_path,level,target_file,stopWord_file):
 if __name__=="__main__":
     t1=time.time()
     #调用函数-正面评论
-    mergeFile('/E/data/ChnSentiCorp_htl_unba_10000/pos',1,'/E/data/pos_all.txt','/E/data/chinese_stopword.txt')
+    merge_file('/E/data/ChnSentiCorp_htl_unba_10000/pos',1,'/E/data/pos_all.txt','/E/data/chinese_stopword.txt')
     #调用函数-负面评论
-    mergeFile('/E/data/ChnSentiCorp_htl_unba_10000/neg',1,'/E/data/neg_all.txt','/E/data/chinese_stopword.txt')
+    merge_file('/E/data/ChnSentiCorp_htl_unba_10000/neg',1,'/E/data/neg_all.txt','/E/data/chinese_stopword.txt')
 
     #mergeFile('/E/data/pos_test',1,'/E/data/pos_test2.txt','/E/data/chinese_stopword.txt')
     t2=time.time()
